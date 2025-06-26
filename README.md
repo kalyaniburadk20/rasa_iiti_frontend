@@ -9,12 +9,15 @@ This repository contains the **React-based frontend** for the **IIT Indore Campu
 
 -  Built with **React + Vite**
 -  Simple and responsive chat UI
+-  A avatar which can talk and guide you.
 -  REST API-based connection with Rasa backend
 -  Easily customizable for UI/UX changes
 -  Supports local development using `npm run dev`
 
 ---
 
+
+---
 ## Prerequisites
 
 - Node.js (v18.x or above recommended)
