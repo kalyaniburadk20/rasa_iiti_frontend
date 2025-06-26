@@ -1,0 +1,14 @@
+/* Add this file and import it in your component for some clean visuals */
+.fc .fc-toolbar-title {
+    font-weight: 600;
+    font-size: 20px;
+  }
+  
+  .fc-event-title {
+    white-space: normal;
+  }
+  
+  .fc-event {
+    cursor: pointer;
+  }
+  
