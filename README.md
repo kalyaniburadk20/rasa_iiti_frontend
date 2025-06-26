@@ -2,7 +2,8 @@
 
 This repository contains the **React-based frontend** for the **IIT Indore Campus Chatbot**, providing a user interface for chatting with the Rasa backend.
 
----<img width="1658" alt="Screenshot 2025-06-26 at 11 16 45 PM" src="https://github.com/user-attachments/assets/0face314-753f-44bc-bb8a-2dc384f3bf02" />
+---<img width="1658" alt="Screenshot 2025-06-26 at 11 16 45 PM" src="https://github.com/user-attachments/assets/0face314-753f-44bc-bb8a-2dc384f3bf02" />![Uploading Screenshot 2025-06-26 at 11.38.01 PM.png…]()
+
 
 
 ##  Features
