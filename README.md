@@ -60,14 +60,7 @@ arduino
 Copy
 Edit
 http://localhost:5173
-Production Build (Optional)
-To build the project for production:
 
-bash
-Copy
-Edit
-npm run build
-Deploy the dist/ folder using a static file host like Vercel, Netlify, or GitHub Pages.
 
 Backend Repository
 This frontend requires the Rasa backend server to function.
